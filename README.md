@@ -20,3 +20,4 @@ Familarity with  python language and knowledge of linear algebra calculations
 - Download the dataset and code file from my Univariate Linear Regression project repository.
 - Upload the dataset and code file into notebook or ide (Jupyter Notebook).
 - Run the Univariate Linear Regression_Completed.ipynb file.
+
